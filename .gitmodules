@@ -1,0 +1,3 @@
+[submodule "mnt"]
+	path = mnt
+	url = git@github.com:DanielSiepmann/t3docs-search-indexer.git
